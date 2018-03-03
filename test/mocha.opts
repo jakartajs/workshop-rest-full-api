@@ -1,0 +1,3 @@
+--reporter spec
+--exit
+--timeout 5000
